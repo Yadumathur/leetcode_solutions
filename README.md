@@ -42,6 +42,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Yadumathur&count_public=true&count_private=true&show_icons=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yadumathur&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yadumathur)
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Yadumathur.visitor-badge)
