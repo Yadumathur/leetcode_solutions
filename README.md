@@ -44,3 +44,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yadumathur&hide=TeX&layout=compact)
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Yadumathur.visitor-badge)
