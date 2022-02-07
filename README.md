@@ -40,7 +40,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Yadumathur&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Yadumathur&count_public=true&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yadumathur&hide=TeX&layout=compact)
 
